@@ -78,6 +78,7 @@ const addItAllUp = () => {
     return console.log(`You tipped ${tipTotal}, your total with tip was ${mealTipTotal}. Split $${split} ways it would be $${splitTotal}`);
 };
 
+
 // addItAllUp(); commented out 
 
 
