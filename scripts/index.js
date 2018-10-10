@@ -75,3 +75,6 @@ const addItAllUp = () => {
 };
 
 addItAllUp();
+
+// Adding a comment at the bottom because this
+// is the reason the code works
